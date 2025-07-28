@@ -9,7 +9,7 @@ It’s a project status tracker that helps visualize how different team members 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/your-username/power-bi-dashboard-1/main/dashboard.png)
+![Dashboard Preview]([https://raw.githubusercontent.com/your-username/power-bi-dashboard-1/main/dashboard.png](https://github.com/selvasurya031/power-bi-dashboard-1/commit/e1eb7d2c7d01cd424aac7214549c9e4ef69c37ef#diff-13cecf186042c0062fee394cbadcaaf9fce8ac01b29d12aaec1b508006b9c131))
 
 ---
 
@@ -50,7 +50,7 @@ I’m open to:
 - Freelance projects
 - Remote analyst roles
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile)  
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/selva-surya-e-332006031e/)  
 Feel free to check out the dashboard and share your feedback!
 
 ---
